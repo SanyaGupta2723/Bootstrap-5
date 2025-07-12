@@ -2,10 +2,6 @@
 
 A **responsive and modern blog layout** built using **Bootstrap 5**. This template is perfect for personal blogs, tech articles, or news websites and showcases clean UI design, responsive grids, and component usage.
 
-## 📸 Preview
-
-![Blog Layout Preview](./screenshots/blog-preview.png)
-
 ## ✨ Features
 
 - 📱 Fully responsive across all devices
@@ -28,3 +24,14 @@ A **responsive and modern blog layout** built using **Bootstrap 5**. This templa
 bash
 git clone https://github.com/your-username/simple-blog-layout.git
 cd simple-blog-layout
+
+
+📌 Use Cases
+
+Personal or tech blogs
+Project documentation layouts
+Portfolio blog sections
+Educational websites
+
+📄 License
+This project is open source and available under the MIT License.
